@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Ömer Kocaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=omrkcmn)
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrkcmn)
+
