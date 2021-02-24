@@ -1,5 +1,5 @@
 
-<img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" width="320"><a href="https://github.com/omrkcmn">
+<img src="https://i.hizliresim.com/pYDIAe.png"><a href="https://github.com/omrkcmn">
 
 
 ### Merhaba, ben Ömer. 
