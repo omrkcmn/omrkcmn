@@ -1,3 +1,7 @@
+
+<img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" width="320"><a href="https://github.com/omrkcmn">
+
+
 ### Merhaba 👋
 
 <!--
