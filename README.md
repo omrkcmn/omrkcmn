@@ -2,7 +2,15 @@
 <img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" width="320"><a href="https://github.com/omrkcmn">
 
 
-### Merhaba 👋
+### Merhaba, ben Ömer. 
+<br>
+
+
+![Ömer Kocaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=omrkcmn)
+<br/>
+
+
+
 
 <!--
 **omrkcmn/omrkcmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Ömer Kocaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=omrkcmn)
-<br/>
-
-
