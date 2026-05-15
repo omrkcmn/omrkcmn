@@ -4,23 +4,32 @@
 
 </div>
 
+---
+
+## 👨‍💻 Hakkımda
+
 > .NET geliştiricisiyim.  
 > Bu bir tercih miydi emin değilim.
->
-> > Kod yazmayı bir yaşam amacı olarak görmüyorum.  
+
+> Kod yazmayı bir yaşam amacı olarak görmüyorum.  
 > Sadece düzgün yapılınca maaş yatıyor.
-> >
-> >
-> >
+
+---
 
 ## ⚙️ İş Ahlakı
+
 > “Allah, biriniz iş yaptığı zaman onu sağlam ve güzel yapmasını sever.”  
 > — Hadis-i Şerif
+
 ---
 
 ## 📖 Perspektif
 
 > “İnsan için ancak çalıştığının karşılığı vardır.”  
 > — Necm 39
->
-Teknoloji amaç değil araçtır.
+
+---
+
+## 🧭 Not
+
+Teknoloji amaç değil, araçtır.
